@@ -1,0 +1,5 @@
+Daftar bahsa pemrogrman
+- C
+-C++
+-JAVA
+-JAVA SCRIPT
