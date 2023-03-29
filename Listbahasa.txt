@@ -3,3 +3,4 @@ Daftar bahsa pemrogrman
 -C++
 -JAVA
 -JAVA SCRIPT
+-python
